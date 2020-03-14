@@ -30,7 +30,7 @@ def Number():
     print("Alright," + Name + ", let me guess ...")
     time.sleep(3)
     print("The first and second number you guessed were " + str(numbers))
-    print("Ohhoo, got you again !\n")
+    print("Ohhoo, got you !\n")
     time.sleep(2)
     print("Want to play the answer game? Type yes or no .")
     Y = input()
