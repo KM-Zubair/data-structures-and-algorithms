@@ -20,6 +20,7 @@ A summary of common Big O complexities:
 - Iterating through half a collection is still **O(n)**.
 - Two separate collections result in **O(a * b)**.
 
+![Big O names with description](images/BigO-1.png "Big O Cheat Sheet")
 ---
 
 ## What Can Cause Time in a Function?
