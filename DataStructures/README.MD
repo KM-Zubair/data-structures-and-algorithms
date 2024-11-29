@@ -2,6 +2,8 @@
 
 This section covers fundamental concepts related to data structures, algorithms, and their complexities.
 
+I have taken the info below from, ![Zerotomastery](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent )
+
 ---
 
 ## Big O's
@@ -20,7 +22,7 @@ A summary of common Big O complexities:
 - Iterating through half a collection is still **O(n)**.
 - Two separate collections result in **O(a * b)**.
 
-![Big O names with description](images/BigO-1.png "Big O Cheat Sheet")
+<img src="images/BigO-1.png" alt="Big O names with description" height="300">
 ---
 
 ## What Can Cause Time in a Function?
@@ -33,7 +35,8 @@ A summary of common Big O complexities:
 ---
 
 ##  Sorting algorithms
-![Sorting Algo](images/Sorting-Algorithms.png "Sorting Algo")
+
+<img src="images/Sorting-Algorithms.png" alt="Sorting Algo" height="300">
 
 ## Common Data Structure Operations
 
