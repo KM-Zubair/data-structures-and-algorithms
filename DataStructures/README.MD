@@ -29,11 +29,16 @@ A summary of common Big O complexities:
 - Comparisons (`<`, `>`, `===`)
 - Looping (`for`, `while`)
 - Outside function calls (`function()`)
-- Sorting algorithms
 
 ---
 
+##  Sorting algorithms
+![Sorting Algo](images/Sorting-Algorithms.png "Sorting Algo")
+
 ## Common Data Structure Operations
+
+<img src="images/Common-DSA-Operations.png" alt="Big O Complexity Cheat Sheet" height="300">
+
 
 ### Rule Book
 1. **Always Worst Case**: Analyze based on the worst-case scenario.
