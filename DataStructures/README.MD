@@ -2,7 +2,7 @@
 
 This section covers fundamental concepts related to data structures, algorithms, and their complexities.
 
-I have taken the info below from, ![Zerotomastery](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent )
+I have taken the info below from, [Zerotomastery](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent)
 
 ---
 
