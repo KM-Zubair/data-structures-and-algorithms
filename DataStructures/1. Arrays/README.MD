@@ -13,6 +13,13 @@ This section covers essential concepts, operations, and complexities related to 
 6. [Solved Problems](#solved-problems)
 ---
 
+## Array Operations Visualization
+
+Below is a helpful visualization of common array operations, complexities, and sorting algorithms, the entire diagram is at [Technical Interview Mindmap](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link):
+
+<img src="images/Array_1.png" alt="Array Operations Visualization" width="600">
+
+
 ## **Python Lists as Arrays**
 - Python's `list` is internally implemented as a dynamic array.
 - Accessing an element by its index has a time complexity of **O(1)**.
