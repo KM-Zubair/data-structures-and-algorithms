@@ -1,30 +1,27 @@
 # Stacks
 
-This section covers essential concepts, operations, and complexities related to stacks in Python.
+Think of a stack as a pile of books on your desk. To add a new book, you place it on top of the pile. To take one out to read, you remove the book on the top first. If you just want to know which book is on top, you simply glance at it. This simple mechanism illustrates how a stack works.
+
+A stack is a linear data structure that adheres to the **Last In, First Out (LIFO)** principle, meaning the last item added is the first to be removed. It supports three main operations:
+1. **Push:** Add an item to the top of the stack.
+2. **Peek:** View the item at the top without removing it.
+3. **Pop:** Remove the top item from the stack.
+
+This structure is widely used in function call management, expression parsing, backtracking algorithms, and undo operations in text editors.
 
 ---
 
 ## **Table of Contents**
-1. [Introduction to Stacks](#introduction-to-stacks)
-2. [Common Operations and Their Complexities](#common-operations-and-their-complexities)
-3. [Stack Implementations in Python](#stack-implementations-in-python)
-4. [Key Points](#key-points)
-5. [Example Code Snippets](#example-code-snippets)
-6. [Solved Problems](#solved-problems)
+
+1. [Common Operations and Their Complexities](#common-operations-and-their-complexities)
+2. [Stack Implementations in Python](#stack-implementations-in-python)
+3. [Key Points](#key-points)
+4. [Example Code Snippets](#example-code-snippets)
+5. [Solved Problems](#solved-problems)
+
+
 
 ---
-
-## **Introduction to Stacks**
-- A **stack** is a linear data structure that follows the **Last In, First Out (LIFO)** principle, meaning the last item added is the first to be removed.
-- It is commonly used in function call management, expression parsing, backtracking algorithms, and undo operations.
-
----
-
-## Stacks Operations Visualization
-
-Below is a helpful visualization of common Stacks operations, complexities, and sorting algorithms, the entire diagram is at [Technical Interview Mindmap](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link):
-
-<img src="images/Stacks_1.png" alt="Stacks Operations Visualization" width="600">
 
 ## **Common Operations and Their Complexities**
 
@@ -40,13 +37,17 @@ Below is a helpful visualization of common Stacks operations, complexities, and 
 ---
 
 ## **Stack Implementations in Python**
+
 Python does not have a built-in `Stack` class, but you can implement stacks using:
+
 1. **Lists**:
    - Use `list.append()` for push and `list.pop()` for pop operations.
    - Efficient for stack operations at the end of the list.
+
 2. **`collections.deque`**:
    - Use `deque.append()` for push and `deque.pop()` for pop operations.
    - Preferred for better performance with stack-like operations.
+
 3. **Custom Classes**:
    - Create a custom `Stack` class to encapsulate the behavior.
 
