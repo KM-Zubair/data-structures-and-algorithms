@@ -6,6 +6,12 @@ Hashmaps are built upon the principle of hashing, where data is mapped to fixed-
 
 ---
 
+## Hashmaps Operations Visualization
+
+Below is a helpful visualization of common Hashmaps operations, complexities, and sorting algorithms, the entire diagram is at [Technical Interview Mindmap](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link):
+
+<img src="images/Hashmaps_1.png" alt="Hashmaps Operations Visualization" width="600">
+
 ## **Table of Contents**
 
 1. [Introduction to Hashmaps](#introduction-to-hashmaps)  
