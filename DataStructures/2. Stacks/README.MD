@@ -9,6 +9,12 @@ A stack is a linear data structure that adheres to the **Last In, First Out (LIF
 
 This structure is widely used in function call management, expression parsing, backtracking algorithms, and undo operations in text editors.
 
+## Stacks Operations Visualization
+
+Below is a helpful visualization of common Stacks operations, complexities, and sorting algorithms, the entire diagram is at [Technical Interview Mindmap](https://coggle.it/diagram/W5E5tqYlrXvFJPsq/t/master-the-interview-click-here-for-course-link):
+
+<img src="images/Stacks_1.png" alt="Array Operations Visualization" width="600">
+
 ---
 
 ## **Table of Contents**
